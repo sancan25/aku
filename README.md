@@ -15,3 +15,5 @@ $ git clone https://github.com/sancan25/aku
 $ cd aku
 
 $ php anu.php
+
+rm -rf nama file
