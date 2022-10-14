@@ -12,6 +12,6 @@ $ pkg install php7
 
 $ git clone https://github.com/sancan25/aku
 
-$ cd teri
+$ cd aku
 
-$ php 3tri.php
+$ php anu.php
