@@ -1,8 +1,7 @@
 <?php
 
 echo @color("nevy","───────────────────────────────────────────\n");
-echo @color("green","               www.Gatcha.org             \n");
-echo @color("green","               nganu          \n");
+echo @color("green","               SANCAN          \n");
 echo @color("nevy","───────────────────────────────────────────\n");
 echo @color('purple', "NOMOR\t\t: ");
 $nomor = trim(fgets(STDIN));
